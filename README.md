@@ -1,6 +1,6 @@
 ### Jean Barreiros 👋
 
-Here are some ideas to get you started:
+Sou arquito de sistemas backend e mobile, estou na àrea desde o ano 2000 e desde então venho acumulando conhecimento em diversas àreas do gerênciamento e desenvolvimento de sistemas.
 
 👨🏻‍💻 Atalmente estou trabalhando como CTO, atuando com gerênciamento de TechLeadrs Mobile, Web e Backend.
 
