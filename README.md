@@ -2,7 +2,7 @@
 
 Sou arquiteto de sistemas backend e mobile, estou na àrea desde o ano 2000 e desde então venho acumulando conhecimento em diversas àreas do gerênciamento e desenvolvimento de sistemas.
 
-👨🏻‍💻 Atalmente estou trabalhando como CTO, atuando com gerênciamento de TechLeadrs Mobile, Web e Backend.
+👨🏻‍💻 Atualmente estou trabalhando como CTO, atuando com gerênciamento de TechLeadrs Mobile, Web e Backend.
 
 🎓 Venho aprendendo muito sobre _BlockChain_, _Cripto_ _Moedas_ em especial _Bitcoins_, e, claro estudando _inglês_.
 
