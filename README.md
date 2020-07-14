@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atalmente estou trabalhando como CTO, atuando com gerênciamento de TechLeadrs Mobile, Web e Backend.
-- 🌱 Venho aprendendo muito sobre _BlockChain_, _Cripto_ _Moedas_ em especial _Bitcoins_, e, claro estudando inglês.
+- 👨🏻‍💻 Atalmente estou trabalhando como CTO, atuando com gerênciamento de TechLeadrs Mobile, Web e Backend.
+- 🌱 Venho aprendendo muito sobre _BlockChain_, _Cripto_ _Moedas_ em especial _Bitcoins_, e, claro estudando _inglês_.
 - ⚡ Especializado em tecnologias:
   - bakend
     - Nodejs
