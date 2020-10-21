@@ -14,6 +14,6 @@ Sou arquiteto de sistemas backend e mobile, estou na àrea desde o ano 2000 e de
   - mobile
       - Nativo (Java, Kotlin, Swift)
       - Híbrido (React Native, Flutter)
-  - Aws, Google Cloud
+  - Aws e Google Cloud
 
 📫 Me envie um email jeandesv@gmail.com.
